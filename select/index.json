@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "そばにいて。",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-03-24T17:09:52.574133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そばにいて",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/01_そばにいて_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そばにいて",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/02_そばにいて_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そばにいて。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/03_そばにいて。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そばにいて…",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/04_そばにいて..._MISIA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "そばにいて。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/05_そばにいて。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "そばにいて、すぐ消えて。",
+      "artist": "YU-A",
+      "has_synced": true,
+      "path": "select/06_そばにいて、すぐ消えて。_YU-A.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "そばにいて",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/07_そばにいて_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "そばにいて (Sobani Ite / 곁에 있어줘)",
+      "artist": "Juju",
+      "has_synced": true,
+      "path": "select/08_そばにいて_(Sobani_Ite___곁에_있어줘)_Juju.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "そばにいて、ラジオ",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/09_そばにいて、ラジオ_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "そばにいて....",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/10_そばにいて...._MISIA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "秋からも、そばにいて",
+      "artist": "Yoko Minamino",
+      "has_synced": true,
+      "path": "select/11_秋からも、そばにいて_Yoko_Minamino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "de・ja・vu ～そばにいて",
+      "artist": "金子美香",
+      "has_synced": true,
+      "path": "select/12_de・ja・vu_~そばにいて_金子美香.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "そばにいて...",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/13_そばにいて..._MISIA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "そばにいて、ラジオ (10th Anniversary Version)",
+      "artist": "Leo Ieiri",
+      "has_synced": false,
+      "path": "select/14_そばにいて、ラジオ_(10th_Anniversary_Version)_Leo_Ieiri.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "de・ja・vu〜そばにいて",
+      "artist": "金子美香",
+      "has_synced": false,
+      "path": "select/15_de・ja・vu〜そばにいて_金子美香.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "そばにいて、ラジオ",
+      "artist": "Leo Ieiri",
+      "has_synced": false,
+      "path": "select/16_そばにいて、ラジオ_Leo_Ieiri.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "そばにいて",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/17_そばにいて_JUJU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばにいて。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_そばにいて。_『ユイカ』.txt"
+    }
+  ]
+}
